@@ -1,0 +1,19 @@
+{
+  "name": "sim-movie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jamdis/sim-movie.git"
+  },
+  "author": "John Landis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamdis/sim-movie/issues"
+  },
+  "homepage": "https://github.com/jamdis/sim-movie#readme"
+}
